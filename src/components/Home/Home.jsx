@@ -455,15 +455,15 @@ function Home() {
         <h2 className="section-title">Contamos con:</h2>
         <div className="facilities-images">
           <div className="facility-item">
-            <img src="/public/imagenes/equipo-nivel.webp" alt="Equipamiento de primer nivel" />
+            <img src="https://www.pentfitness.com/cdn/shop/collections/Projekt_14_Hotel_gym_HR_1_c12362db-bb62-4dfd-a31b-e72a9616255c.jpg?v=1696761769" alt="Equipamiento de primer nivel" />
             <p>Equipamiento de primer nivel</p>
           </div>
           <div className="facility-item">
-            <img src="/public/imagenes/sala-clases.webp" alt="Sala de Clases Grupales" />
+            <img src="https://www.sportlife.es/uploads/s1/13/76/82/18/technogym-marbella-design-01.jpeg" />
             <p>Sala de Clases Grupales</p>
           </div>
           <div className="facility-item">
-            <img src="/public/imagenes/peso2.avif" alt="Peso Integrado" />
+            <img src="https://molinsdesign.com/wp-content/uploads/2024/04/gimnasios-de-lujo-en-espana.jpg" />
             <p>Peso Integrado</p>
           </div>
         </div>
@@ -479,3 +479,4 @@ function Home() {
 }
 
 export default Home;
+
